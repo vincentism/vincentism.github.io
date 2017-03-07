@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://vincentism.github.io/sitemap.xml 
